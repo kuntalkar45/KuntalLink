@@ -1,0 +1,2 @@
+# KuntalLink
+QR Generator
